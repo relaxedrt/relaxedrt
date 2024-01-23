@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦾I´m currently working on automation and robotics<br>💻I'm learning python oriented to IOT, Computer Vision, AI and ML<br>🏭My goal is to mix both worlds and develop solutions por industry 4.0<br>💬You can ask me for help about automation and robotics<br>📥Help me out giving me ideas for projects
+🦾I´m currently working on automation and robotics<br>💻I'm learning python oriented to IOT and Computer Vision<br>🏭My goal is to mix both worlds and develop solutions por industry 4.0<br>💬You can ask me for help about automation and robotics<br>📥Help me out giving me ideas for projects
 
 
 ## 🌐 Socials:
