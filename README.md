@@ -1,5 +1,5 @@
 # 💫 About Me:
-🦾I´m currently working on automation and robotics and studying computer engeneering<br>💻I'm learning Python, C and some weeb development<br>🏭My goal is to develop solutions por industry 4.0<br>💬You can ask me for help about automation and robotics<br>📥Help me out giving me ideas for projects
+🦾I´m currently working on automation and robotics and studying computer engeneering<br>💻I'm learning Python, C and some web development<br>🏭My goal is to develop solutions por industry 4.0<br>💬You can ask me for help about automation and robotics<br>📥Help me out giving me project ideas
 
 
 ## 🌐 Socials:
